@@ -9,9 +9,13 @@ Ingreso de datos
 
 ![imagen](https://github.com/SamuelCU/ConexionBasedDatos/assets/133398236/ba5b75a8-12ba-4386-9f77-eda138def5d4)
 
+![imagen](https://github.com/SamuelCU/ConexionBasedDatos/assets/133398236/b775b281-e040-4ff3-b0cb-c0bc0cf9a441)
+
+
 Insertar datos
 
-![imagen](https://github.com/SamuelCU/ConexionBasedDatos/assets/133398236/2bf9c24b-da7f-430a-80be-9ba619ce9198)
+![imagen](https://github.com/SamuelCU/ConexionBasedDatos/assets/133398236/6ae64557-b181-481f-997a-44d7dbc930df)
+
 
 
 
